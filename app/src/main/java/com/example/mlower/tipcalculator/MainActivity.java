@@ -1,7 +1,6 @@
 package com.example.mlower.tipcalculator;
 
 import android.annotation.SuppressLint;
-import android.icu.text.DecimalFormat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
